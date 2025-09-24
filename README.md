@@ -32,15 +32,15 @@ The dashboard includes:
 ---
 
 ## 🛠 Tools Used
-- **Tableau** (v202x) OR **Power BI** (v2.x)  
-- **Excel / CSV** for data preprocessing  
+-  **Power BI** (v2.x)  
+-  CSV** for data preprocessing  
 
 ---
 
 ## 📤 Deliverables
-- `dashboards/` → Tableau/Power BI dashboard file (`.twbx` / `.pbix`)  
-- `exports/` → Exported PDF/screenshots of dashboard  
-- `data/` → Source dataset (`Superstore.csv`)  
+- Power BI dashboard file (`TASK2.pbix`)  
+- screenshots of dashboard(`dashboard_screenshots.pdf`)  
+- data/Source dataset (`Data-Superstore.csv`)  
 
 ---
 
