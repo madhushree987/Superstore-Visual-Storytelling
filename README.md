@@ -47,4 +47,4 @@ The dashboard includes:
 ## 🚀 How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/superstore-visual-storytelling.git
+   git clone https://github.com/madhushree987/Superstore-Visual-Storytelling.git
